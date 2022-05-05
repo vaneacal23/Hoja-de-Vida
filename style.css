@@ -1,0 +1,142 @@
+header {
+  width: 98%;
+  height: 100px;
+  background: linear-gradient(#b996c5, #e4caec);
+  padding: 1%;
+  padding-bottom: 3%;
+  border-radius: 20px;
+  background-position: 0%;
+}
+header .titulo {
+  width: 30%;
+  height: 30%;
+  font-family: "Raleway", sans-serif;
+  color: #e9d7f3;
+  font-size: 60%;
+  font-weight: 600;
+  text-align: left;
+}
+header .nombre {
+  font-family: "Fjalla One", sans-serif;
+  color: #321c39;
+  text-align: center;
+  font-size: 150%;
+}
+header .nombre:hover {
+  color: white;
+}
+header .foto {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 10%;
+}
+header .foto img {
+  width: 20%;
+  border-radius: 100%;
+}
+
+body .informacion {
+  width: 90%;
+  height: auto;
+  background: #e4caec;
+  margin: 3%;
+  padding: 20px;
+  border-radius: 10px;
+}
+body .informacion .tituloInfo {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  color: #321c39;
+  font-size: 115%;
+  border-bottom: 2px rgb(215, 150, 245) dashed;
+}
+body .informacion .tituloInfo:hover {
+  color: #8507b3;
+}
+
+body .informacion .subTituloInfo {
+  font-family: "Fjalla One", sans-serif;
+  color: #340345;
+  font-size: 100%;
+  display: inline;
+  margin-right: 15px;
+}
+body .informacion .contenidoInfo {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 85%;
+  color: #321c39;
+  display: inline;
+}
+body .perfilEducativo {
+  width: 90%;
+  height: auto;
+  background: #e4caec;
+  margin: 3%;
+  padding: 20px;
+  border-radius: 10px;
+}
+body .perfilEducativo .tituloPerfil {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  color: #321c39;
+  font-size: 115%;
+  border-bottom: 2px rgb(215, 150, 245) dashed;
+}
+body .perfilEducativo .tituloPerfil:hover {
+  color: #8507b3;
+}
+
+body .perfilEducativo .subTituloPerfil {
+  font-family: "Fjalla One", sans-serif;
+  color: #340345;
+  font-size: 100%;
+  display: inline;
+  margin-right: 15px;
+}
+body .perfilEducativo .contenidoInfoPerfil {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 85%;
+  color: #321c39;
+  display: inline;
+}
+body .perfilEducativoDos {
+  width: 90%;
+  height: auto;
+  background: #e4caec;
+  margin: 3%;
+  padding: 20px;
+  border-radius: 10px;
+}
+body .perfilEducativoDos .tituloPerfil {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  color: #321c39;
+  font-size: 115%;
+  border-bottom: 2px rgb(215, 150, 245) dashed;
+}
+body .perfilEducativoDos .tituloPerfil:hover {
+  color: #8507b3;
+}
+body .perfilEducativoDos .subTituloPerfil {
+  font-family: "Fjalla One", sans-serif;
+  color: #340345;
+  font-size: 100%;
+  display: inline;
+  margin-right: 15px;
+}
+body .perfilEducativoDos .contenidoInfoPerfil {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 85%;
+  color: #321c39;
+  display: inline;
+}
+
+footer {
+  width: 98%;
+  height: 100px;
+  background: linear-gradient(#e4caec, #b996c5);
+  padding: 1%;
+  padding-bottom: 3%;
+  border-radius: 20px;
+  background-position: 0%;
+}
